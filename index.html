@@ -1,32 +1,56 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <script>
-      function appendResults(text) {
-        var results = document.getElementById('results');
-        results.appendChild(document.createElement('P'));
-        results.appendChild(document.createTextNode(text));
-      }
+<head>
+<title>Angular JS Includes</title>
+<style>
+table, th , td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+</head>
+<body>
+<h2>AngularJS Sample Application</h2>
+<div ng-app="" ng-controller="studentController">
+<input type="text" ng-model="bookName" ng-change="data()"><br>
+<table>
+   <tr>
+      <th>Name</th>
+      <th>Author</th>
+	  <th>Publisher</th>
+   </tr>
+   <tr ng-repeat="item in students.items">
+      <td>{{ item.volumeInfo.title }}</td>
+      <td>{{ item.volumeInfo.authors }}</td>
+	  <td>{{ item.volumeInfo.publisher }}</td>
+   </tr>
+</table>
+</div>
+<script>
+function studentController($scope,$http) {
+	$scope.bookName = 'Java';
+   	$scope.data = function(){
+   		var url="https://www.googleapis.com/books/v1/volumes?q="+ $scope.bookName +"&key=AIzaSyDxdRc98FI1ox_l_WqH30yWUoghWfHA6jA";
+   		var inp= $scope.bookName;
+   		console.log(inp.length);
+   		
+   		$http.get(url).success( function(response) {
+                           $scope.students = response;
+                      
+                        });
+   		
+   		
+   	}
 
-      function makeRequest() {
-        var request = gapi.client.urlshortener.url.get({
-          'shortUrl': 'http://goo.gl/fbsS'
-        });
-        request.then(function(response) {
-          appendResults(response.result.longUrl);
-        }, function(reason) {
-          console.log('Error: ' + reason.result.error.message);
-        });
-      }
-
-      function init() {
-        gapi.client.setApiKey('YOUR API KEY');
-        gapi.client.load('urlshortener', 'v1').then(makeRequest);
-      }
-    </script>
-    <script src="https://apis.google.com/js/client.js?onload=init"></script>
-  </head>
-  <body>
-    <div id="results"></div>
-  </body>
+}
+</script>
+<script src="res/js/angular.min.js"></script>
+<script src="res/js/jquery-2.1.1.min.js"></script>
+</body>
 </html>
