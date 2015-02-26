@@ -28,14 +28,16 @@ table tr:nth-child(even) {
 </head>
 <body>
 <div ng-app="" ng-controller="studentController" class="container-fluid">
-<div class="col-sm-2 col-md-2 col-xs-12 col-lg-3" style="background-color:lavender;"><input type="text" ng-model="bookName" ng-change="data()"><br></div>
-    <div class="col-sm-10 col-md-10 col-xs-12 col-lg-9" style="background-color:lavenderblush;">
+<div class="col-sm-12 col-md-4 col-xs-12 col-lg-3" style="background-color:lavender;"><input type="text" ng-model="bookName" ng-change="data()"><br></div>
+    <div class="col-sm-12 col-md-8 col-xs-12 col-lg-9" style="background-color:lavenderblush;">
           
-             <div class="col-sm-6 col-md-3 col-xs-12 col-lg-3 grid"    ng-repeat="item in students.items">
+             <div class="col-sm-5 col-md-5 col-xs-12 col-lg-3 grid"    ng-repeat="item in students.items">
                 <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12"><img href={{item.volumeInfo.imageLinks.smallThumbnail}}/></div>
-                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.title }}</td>
-                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.authors }}</td>
-          	    <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.publisher }}</td>
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.title }}<div>
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">
+                <span ng-repeat="author in item.volumeInfo.authors">
+                {{ author }},</span><div>
+          	    <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.publisher }}<div>
              </div>
          
     </div>
