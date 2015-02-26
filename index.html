@@ -1,6 +1,11 @@
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Angular JS Includes</title>
+<script src="res/js/jquery-2.1.1.min.js"></script>
+<script src="res/js/angular.min.js"></script>
+<script src="res/js/bootstrap.js"></script>
+<link rel="stylesheet" href="res/css/bootstrap.css">
 <style>
 table, th , td {
   border: 1px solid grey;
@@ -13,44 +18,46 @@ table tr:nth-child(odd) {
 table tr:nth-child(even) {
   background-color: #ffffff;
 }
+.grid{
+  border : 1px solid black;
+  border-radius: 7pt;
+  min-height: 150px;
+  margin: 5px 5px 5px 5px;
+}
 </style>
 </head>
 <body>
-<h2>AngularJS Sample Application</h2>
-<div ng-app="" ng-controller="studentController">
-<input type="text" ng-model="bookName" ng-change="data()"><br>
-<table>
-   <tr>
-      <th>Name</th>
-      <th>Author</th>
-	  <th>Publisher</th>
-   </tr>
-   <tr ng-repeat="item in students.items">
-      <td>{{ item.volumeInfo.title }}</td>
-      <td>{{ item.volumeInfo.authors }}</td>
-	  <td>{{ item.volumeInfo.publisher }}</td>
-   </tr>
-</table>
+<div ng-app="" ng-controller="studentController" class="container-fluid">
+<div class="col-sm-2 col-md-2 col-xs-12 col-lg-3" style="background-color:lavender;"><input type="text" ng-model="bookName" ng-change="data()"><br></div>
+    <div class="col-sm-10 col-md-10 col-xs-12 col-lg-9" style="background-color:lavenderblush;">
+          
+             <div class="col-sm-6 col-md-3 col-xs-12 col-lg-3 grid"    ng-repeat="item in students.items">
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12"><img href={{item.volumeInfo.imageLinks.smallThumbnail}}/></div>
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.title }}</td>
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.authors }}</td>
+          	    <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12">{{ item.volumeInfo.publisher }}</td>
+             </div>
+         
+    </div>
 </div>
 <script>
 function studentController($scope,$http) {
-	$scope.bookName = 'Java';
+	$scope.bookName = 'Flower';
    	$scope.data = function(){
    		var url="https://www.googleapis.com/books/v1/volumes?q="+ $scope.bookName +"&key=AIzaSyDxdRc98FI1ox_l_WqH30yWUoghWfHA6jA";
    		var inp= $scope.bookName;
    		console.log(inp.length);
-   		
+   		if(inp.length>=5){
    		$http.get(url).success( function(response) {
                            $scope.students = response;
-                      
+                            console.log(response)
                         });
    		
-   		
+   		}
    	}
 
 }
 </script>
-<script src="res/js/angular.min.js"></script>
-<script src="res/js/jquery-2.1.1.min.js"></script>
+
 </body>
 </html>
