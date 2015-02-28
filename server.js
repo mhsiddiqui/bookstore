@@ -16,6 +16,9 @@ app.post('/post',function(req, res){
 app.get('/index.html',function(req, res){
 	res.sendFile(__dirname+req.url )
 });
+app.get('/text.txt',function(req, res){
+	res.sendFile(__dirname+req.url )
+});
 
 
 

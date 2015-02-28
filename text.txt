@@ -1,0 +1,829 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2082,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DjdgXGLoJY8C",
+   "etag": "6f57TMe+9c8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DjdgXGLoJY8C",
+   "volumeInfo": {
+    "title": "Random Walks in Biology",
+    "authors": [
+     "Howard C. Berg"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "1993",
+    "description": "This book is a lucid, straightforward introduction to the concepts and techniques of statistical physics that students of biology, biochemistry, and biophysics must know. It provides a sound basis for understanding random motions of molecules, subcellular particles, or cells, or of processes that depend on such motion or are markedly affected by it. Readers do not need to understand thermodynamics in order to acquire a knowledge of the physics involved in diffusion, sedimentation, electrophoresis, chromatography, and cell motility--subjects that become lively and immediate when the author discusses them in terms of random walks of individual particles.This book is a lucid, straightforward introduction to the concepts and techniques of statistical physics that students of biology, biochemistry, and biophysics must know. It provides a sound basis for understanding random motions of molecules, subcellular particles, or cells, or of processes that depend on such motion or are markedly affected by it. Readers do not need to understand thermodynamics in order to acquire a knowledge of the physics involved in diffusion, sedimentation, electrophoresis, chromatography, and cell motility--subjects that become lively and immediate when the author discusses them in terms of random walks of individual particles.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0691000646"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691000640"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DjdgXGLoJY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DjdgXGLoJY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DjdgXGLoJY8C&printsec=frontcover&dq=random&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DjdgXGLoJY8C&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Walks_in_Biology.html?hl=&id=DjdgXGLoJY8C"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Random_Walks_in_Biology-sample-epub.acsm?id=DjdgXGLoJY8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Random_Walks_in_Biology-sample-pdf.acsm?id=DjdgXGLoJY8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=DjdgXGLoJY8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is a lucid, straightforward introduction to the concepts and techniques of statistical physics that students of biology, biochemistry, and biophysics must know."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qUDvAAAAMAAJ",
+   "etag": "xfaiaTdvhbQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qUDvAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The algebra of random variables",
+    "authors": [
+     "Melvin Dale Springer"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "1979",
+    "description": "Differentiation and integration in the complex plane; The distribution of sums and differences of Random variables; The distribution of products and quotients of Random variables; The distribution of algebraic functions of independent Random variables; The distribution of algebraic functions of independent H-function variables; Analytical model for evaluation of the H-function inversion integral; Approximating the distribution of an algebraic function of independent random variables; Distribution problems in statistics.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015015715231"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 470,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qUDvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qUDvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qUDvAAAAMAAJ&q=random&dq=random&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qUDvAAAAMAAJ&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_algebra_of_random_variables.html?hl=&id=qUDvAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=qUDvAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Differentiation and integration in the complex plane; The distribution of sums and differences of Random variables; The distribution of products and quotients of Random variables; The distribution of algebraic functions of independent ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qYSViFRNMlwC",
+   "etag": "6A2v0gSL53s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qYSViFRNMlwC",
+   "volumeInfo": {
+    "title": "Random Data",
+    "subtitle": "Analysis and Measurement Procedures",
+    "authors": [
+     "Julius S. Bendat",
+     "Allan G. Piersol"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-20",
+    "description": "A timely update of the classic book on the theory andapplication of random data analysis First published in 1971, Random Data served as anauthoritative book on the analysis of experimental physical datafor engineering and scientific applications. This FourthEdition features coverage of new developments in random datamanagement and analysis procedures that are applicable to a broadrange of applied fields, from the aerospace and automotiveindustries to oceanographic and biomedical research. This new edition continues to maintain a balance of classictheory and novel techniques. The authors expand on the treatment ofrandom data analysis theory, including derivations of keyrelationships in probability and random process theory. The bookremains unique in its practical treatment of nonstationary dataanalysis and nonlinear system analysis, presenting the latesttechniques on modern data acquisition, storage, conversion, andqualification of random data prior to its digital analysis. TheFourth Edition also includes: A new chapter on frequency domain techniques to model andidentify nonlinear systems from measured input/output randomdata New material on the analysis of multiple-input/single-outputlinear models The latest recommended methods for data acquisition andprocessing of random data Important mathematical formulas to design experiments andevaluate results of random data analysis and measurementprocedures Answers to the problem in each chapter Comprehensive and self-contained, Random Data, FourthEdition is an indispensible book for courses on random dataanalysis theory and applications at the upper-undergraduate andgraduate level. It is also an insightful reference for engineersand scientists who use statistical methods to investigate and solveproblems with dynamic data.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118210826"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118210824"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "contentVersion": "0.4.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qYSViFRNMlwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qYSViFRNMlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qYSViFRNMlwC&printsec=frontcover&dq=random&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qYSViFRNMlwC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Data.html?hl=&id=qYSViFRNMlwC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Random_Data-sample-epub.acsm?id=qYSViFRNMlwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Random_Data-sample-pdf.acsm?id=qYSViFRNMlwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=qYSViFRNMlwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A timely update of the classic book on the theory andapplication of random data analysis First published in 1971, Random Data served as anauthoritative book on the analysis of experimental physical datafor engineering and scientific ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bxlhk5RQcB0C",
+   "etag": "8kIC47ZzmRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bxlhk5RQcB0C",
+   "volumeInfo": {
+    "title": "Random Vibrations",
+    "subtitle": "Analysis of Structural and Mechanical Systems",
+    "authors": [
+     "Loren D. Lutes",
+     "Shahram Sarkani"
+    ],
+    "publisher": "Butterworth-Heinemann",
+    "publishedDate": "2004",
+    "description": "The topic of Introduction to Random Vibrations is the behavior of structural and mechanical systems when they are subjected to unpredictable, or random, vibrations. These vibrations may arise from natural phenomena such as earthquakes or wind, or from human-controlled causes such as the stresses placed on aircraft at takeoff and landing. Study and mastery of this topic enables engineers to design and maintain structures capable of withstanding random vibrations, thereby protecting human life. Introduction to Random Vibrations will lead readers in a user-friendly fashion to a thorough understanding of vibrations of linear and nonlinear systems that undergo stochastic-random-excitation. · Provides over 150 worked out example problems and, along with over 225 exercises, illustrates concepts with true-to-life engineering design problems · Offers intuitive explanations of concepts within a context of mathematical rigor and relatively advanced analysis techniques. · Essential for self-study by practicing engineers, and for instruction in the classroom.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780750677653"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0750677651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 638,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bxlhk5RQcB0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bxlhk5RQcB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bxlhk5RQcB0C&printsec=frontcover&dq=random&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bxlhk5RQcB0C&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Vibrations.html?hl=&id=bxlhk5RQcB0C"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=bxlhk5RQcB0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Introduction to Random Vibrations will lead readers in a user-friendly fashion to a thorough understanding of vibrations of linear and nonlinear systems that undergo stochastic-random-excitation. · Provides over 150 worked out example ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vNh6_n-K9_4C",
+   "etag": "b4EOwtxTP2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vNh6_n-K9_4C",
+   "volumeInfo": {
+    "title": "Gaussian Random Functions",
+    "authors": [
+     "M.A. Lifshits"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1995-02-28",
+    "description": "The last decade not only enriched the theory of Gaussian random functions with several new and important results, but also marked a significant shift in the approach to presenting the material. New, simple and short proofs of a number of fundamental statements have appeared, based on the systematic use of the convexity of measures the isoperimetric inequalities. This volume presents a coherent, compact, and mathematically complete series of the most essential properties of Gaussian random functions. The book focuses on a number of fundamental objects in the theory of Gaussian random functions and exposes their interrelations. The basic plots presented in the book embody: the kernel of a Gaussian measure, the model of a Gaussian random function, oscillations of sample functions, the convexity and isoperimetric inequalities, the regularity of sample functions of means of entropy characteristics and the majorizing measures, functional laws of the iterated logarithm, estimates for the probabilities of large deviations. This volume will be of interest to mathematicians and scientists who use stochastic methods in their research. It will also be of great value to students in probability theory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0792333853"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780792333852"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 333,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vNh6_n-K9_4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vNh6_n-K9_4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vNh6_n-K9_4C&printsec=frontcover&dq=random&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vNh6_n-K9_4C&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Gaussian_Random_Functions.html?hl=&id=vNh6_n-K9_4C"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Gaussian_Random_Functions-sample-pdf.acsm?id=vNh6_n-K9_4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=vNh6_n-K9_4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This volume presents a coherent, compact, and mathematically complete series of the most essential properties of Gaussian random functions."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bnQKXWjGoSEC",
+   "etag": "Gf1km8fIpFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bnQKXWjGoSEC",
+   "volumeInfo": {
+    "title": "An Introduction to the Theory of Stationary Random Functions",
+    "authors": [
+     "A. M. Yaglom"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2004-01",
+    "description": "This two-part treatment covers the general theory of stationary random functions and the Wiener-Kolmogorov theory of extrapolation and interpolation of random sequences and processes. Beginning with the simplest concepts, it covers the correlation function, the ergodic theorem, homogenous random fields, and general rational spectral densities, among other topics. Numerous examples appear throughout the text, with emphasis on the physical meaning of mathematical concepts. Although rigorous in its treatment, this is essentially an introduction, and the sole prerequisites are a rudimentary knowledge of probability and complex variable theory. 1962 edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "048649571X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486495712"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 235,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bnQKXWjGoSEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bnQKXWjGoSEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bnQKXWjGoSEC&printsec=frontcover&dq=random&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bnQKXWjGoSEC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/An_Introduction_to_the_Theory_of_Station.html?hl=&id=bnQKXWjGoSEC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=bnQKXWjGoSEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Although rigorous in its treatment, this is essentially an introduction, and the sole prerequisites are a rudimentary knowledge of probability and complex variable theory. 1962 edition."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mE9owVg1U1IC",
+   "etag": "tnHH2qfhwQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mE9owVg1U1IC",
+   "volumeInfo": {
+    "title": "An Introduction to Random Vibrations, Spectral & Wavelet Analysis",
+    "subtitle": "Third Edition",
+    "authors": [
+     "D. E. Newland"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2012-04-03",
+    "description": "One of the first engineering books to cover wavelet analysis, this classic text describes and illustrates basic theory, with a detailed explanation of the workings of discrete wavelet transforms. Computer algorithms are explained and supported by examples and a set of problems, and an appendix lists ten computer programs for calculating and displaying wavelet transforms. Starting with an introduction to probability distributions and averages, the text examines joint probability distributions, ensemble averages, and correlation; Fourier analysis; spectral density and excitation response relations for linear systems; transmission of random vibration; statistics of narrow band processes; and accuracy of measurements. Discussions of digital spectral analysis cover discrete Fourier transforms as well as windows and smoothing. Additional topics include the fast Fourier transform; pseudo-random processes; multidimensional spectral analysis; response of continuous linear systems to stationary random excitation; and discrete wavelet analysis. Numerous diagrams and graphs clarify the text, and complicated mathematics are simplified whenever possible. This volume is suitable for upper-level undergraduates and graduate students in engineering and the applied sciences; it is also an important resource for professionals.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486136967"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486136965"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mE9owVg1U1IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mE9owVg1U1IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mE9owVg1U1IC&printsec=frontcover&dq=random&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mE9owVg1U1IC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/An_Introduction_to_Random_Vibrations_Spe.html?hl=&id=mE9owVg1U1IC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Random_Vibrations_Spe-sample-epub.acsm?id=mE9owVg1U1IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/An_Introduction_to_Random_Vibrations_Spe-sample-pdf.acsm?id=mE9owVg1U1IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=mE9owVg1U1IC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This volume is suitable for upper-level undergraduates and graduate students in engineering and the applied sciences; it is also an important resource for professionals."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UGGhM2XKE_0C",
+   "etag": "APlCVx7JB7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UGGhM2XKE_0C",
+   "volumeInfo": {
+    "title": "A Random Walk in Science,",
+    "authors": [
+     "Robert L. Weber"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "1973-01-01",
+    "description": "This anthology provides an insight into the wit and intellect of the scientific mind through a blend of amusing and serious contributions written by and about scientists. The contributions record changing attitudes within science and mirror the interactions of science with society.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "085498027X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780854980277"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UGGhM2XKE_0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UGGhM2XKE_0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UGGhM2XKE_0C&printsec=frontcover&dq=random&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UGGhM2XKE_0C&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/A_Random_Walk_in_Science.html?hl=&id=UGGhM2XKE_0C"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=UGGhM2XKE_0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This anthology provides an insight into the wit and intellect of the scientific mind through a blend of amusing and serious contributions written by and about scientists."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8a_-VEL7GUYC",
+   "etag": "M9rd+RVvv/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8a_-VEL7GUYC",
+   "volumeInfo": {
+    "title": "The Geometry of Random Fields",
+    "authors": [
+     "Robert J. Adler"
+    ],
+    "publisher": "SIAM",
+    "publishedDate": "1981",
+    "description": "Originally published in 1981, The Geometry of Random Fields remains an important text for its coverage and exposition of the theory of both smooth and nonsmooth random fields; closed form expressions for the various geometric characteristics of the excursion sets of smooth, stationary, Gaussian random fields over N-dimensional rectangles; descriptions of the local behavior of random fields in the neighborhoods of high maxima; and a treatment of the Markov property for Gaussian fields. Audience: researchers in probability and statistics, with no prior knowledge of geometry required. Since the book was originally published it has become a standard reference in areas of physical oceanography, cosmology, and neuroimaging. It is written at a level accessible to nonspecialists, including advanced undergraduates and early graduate students.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780898718980"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0898718988"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Electronic books"
+    ],
+    "contentVersion": "2.5.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8a_-VEL7GUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8a_-VEL7GUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=8a_-VEL7GUYC&printsec=frontcover&dq=random&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8a_-VEL7GUYC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Geometry_of_Random_Fields.html?hl=&id=8a_-VEL7GUYC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Geometry_of_Random_Fields-sample-pdf.acsm?id=8a_-VEL7GUYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=8a_-VEL7GUYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Audience: researchers in probability and statistics, with no prior knowledge of geometry required. Since the book was originally published it has become a standard reference in areas of physical oceanography, cosmology, and neuroimaging."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0MCxDV1bonAC",
+   "etag": "g3MEbecEWJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0MCxDV1bonAC",
+   "volumeInfo": {
+    "title": "Random Fields",
+    "subtitle": "Analysis and Synthesis",
+    "authors": [
+     "Erik Vanmarcke"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "2010",
+    "description": "Random variation is a fact of life that provides substance to a wide range of problems in the sciences, engineering, and economics. There is a growing need in diverse disciplines to model complex patterns of variation and interdependence using random fields, as both deterministic treatment and conventional statistics are often insufficient. An ideal random field model will capture key features of complex random phenomena in terms of a minimum number of physically meaningful and experimentally accessible parameters. This volume, a revised and expanded edition of an acclaimed book first published by the M I T Press, offers a synthesis of methods to describe and analyze and, where appropriate, predict and control random fields. There is much new material, covering both theory and applications, notably on a class of probability distributions derived from quantum mechanics, relevant to stochastic modeling in fields such as cosmology, biology and system reliability, and on discrete-unit or agent-based random processes. Random Fields is self-contained and unified in presentation. The first edition was found, in a review in EOS (American Geophysical Union) to be \"both technically interesting and a pleasure to read ... the presentation is clear and the book should be useful to almost anyone who uses random processes to solve problems in engineering or science ... and (there is) continued emphasis on describing the mathematics in physical terms.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789812563538"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9812563539"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0MCxDV1bonAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0MCxDV1bonAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0MCxDV1bonAC&printsec=frontcover&dq=random&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0MCxDV1bonAC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Fields.html?hl=&id=0MCxDV1bonAC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=0MCxDV1bonAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This volume, a revised and expanded edition of an acclaimed book first published by the M I T Press, offers a synthesis of methods to describe and analyze and, where appropriate, predict and control random fields."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RjnqVoB4VmUC",
+   "etag": "EFgh7tZleBw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RjnqVoB4VmUC",
+   "volumeInfo": {
+    "title": "Random Graphs",
+    "authors": [
+     "Svante Janson",
+     "Tomasz Luczak",
+     "Andrzej Rucinski"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-30",
+    "description": "A unified, modern treatment of the theory of randomgraphs-including recent results and techniques Since its inception in the 1960s, the theory of random graphs hasevolved into a dynamic branch of discrete mathematics. Yet despitethe lively activity and important applications, the lastcomprehensive volume on the subject is Bollobas's well-known 1985book. Poised to stimulate research for years to come, this new workcovers developments of the last decade, providing a much-needed,modern overview of this fast-growing area of combinatorics. Writtenby three highly respected members of the discrete mathematicscommunity, the book incorporates many disparate results from acrossthe literature, including results obtained by the authors and somecompletely new results. Current tools and techniques are alsothoroughly emphasized. Clear, easily accessible presentations makeRandom Graphs an ideal introduction for newcomers to the field andan excellent reference for scientists interested in discretemathematics and theoretical computer science. Special featuresinclude: * A focus on the fundamental theory as well as basic models ofrandom graphs * A detailed description of the phase transition phenomenon * Easy-to-apply exponential inequalities for large deviationbounds * An extensive study of the problem of containing smallsubgraphs * Results by Bollobas and others on the chromatic number of randomgraphs * The result by Robinson and Wormald on the existence of Hamiltoncycles in random regular graphs * A gentle introduction to the zero-one laws * Ample exercises, figures, and bibliographic references",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118030967"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118030966"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "contentVersion": "0.5.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RjnqVoB4VmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RjnqVoB4VmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RjnqVoB4VmUC&printsec=frontcover&dq=random&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RjnqVoB4VmUC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Graphs.html?hl=&id=RjnqVoB4VmUC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Random_Graphs-sample-pdf.acsm?id=RjnqVoB4VmUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=RjnqVoB4VmUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-7tlL-hEolQC",
+   "etag": "NsFrOuwUiVI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-7tlL-hEolQC",
+   "volumeInfo": {
+    "title": "Random Vibrations",
+    "subtitle": "Theory and Practice",
+    "authors": [
+     "Paul H. Wirsching",
+     "Thomas L. Paez",
+     "Keith Ortiz"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2006",
+    "description": "The most comprehensive text and reference available on the study of random vibrations, this book was designed for graduate students and mechanical, structural, and aerospace engineers. In addition to coverage of background topics in probability, statistics, and random processes, it develops methods for analyzing and controlling random vibrations. 1995 edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486450155"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486450155"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-7tlL-hEolQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-7tlL-hEolQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-7tlL-hEolQC&printsec=frontcover&dq=random&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-7tlL-hEolQC&dq=random&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Random_Vibrations.html?hl=&id=-7tlL-hEolQC"
+   },
+   "saleInfo": {
+    "country": "PK",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PK",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=-7tlL-hEolQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The most comprehensive text and reference available on the study of random vibrations, this book was designed for graduate students and mechanical, structural, and aerospace engineers."
+   }
+  }
+ ]
+}
