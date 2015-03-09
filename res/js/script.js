@@ -1,6 +1,5 @@
 function fc(ind){
 	var h=$('#book_'+ ind).height();
-	console.log($('#book_1').height());
 	if(ind==12){
 	var interval = setInterval(function(){
 		if($('#book_1').height()){

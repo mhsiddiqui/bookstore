@@ -14,7 +14,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', end
   border-radius: 7pt;
   background-color: #db83e6;
   margin: 10px 10px 10px 10px;
+  cursor: hand;
 }
+
 .grid:hover{
 	background-color: #b528c7;
 }
@@ -43,4 +45,9 @@ width: 100%;
 
 background-color: #f5f5f5;
 
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    height:100%;
 }
